@@ -1,4 +1,5 @@
+The server name is 
 <?php
-echo The server name is gethostname();
+echo gethostname();
 ?>
 
