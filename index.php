@@ -3,4 +3,4 @@ The server name is
 echo gethostname();
 ?>
 
-Ryan hoyum
+Ryan holanyum
